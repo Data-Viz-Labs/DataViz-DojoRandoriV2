@@ -2,7 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
-**CAUTION: Not suitable for production, use a later version of Angular.io, this package it's intended to show data consume with D3**
+**CAUTION**: _Not suitable for production, use a later version of Angular.io, this package it's intended to show data consume with D3_
+
+![preview](https://github.com/Data-Viz-Labs/DataViz-DojoRandoriV2/blob/master/doc/Screenshot%202020-09-08%20at%2009.39.19.png "Preview")
+
 
 ## Development server
 
